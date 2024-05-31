@@ -1,9 +1,8 @@
 # Airbnb-Analysis
 
-# Airbnb-Analysis
 Project Title : Airbnb Analysis.
 
-Skills Sets : Python scripting, Data Preprocessing, Visualization, EDA, Streamlit.
+Skills Sets : Python scripting, Data Preprocessing, Visualization, EDA, Streamlit,power BI.
 
 Domain : Travel Industry, Property Management and Tourism.
 
